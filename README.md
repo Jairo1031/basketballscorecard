@@ -8,6 +8,6 @@ Slam dunk those scores in real-time with dynamic updates! No more messy pen and 
 Stats like a boss ! Keep tabs on individual player points.
 Perfect for coaches, fans, and tech wizards alike, this scorecard is a slam dunk!
 
-Check out a demo here: [link or screenshot]
+Check out a demo here: [https://basketballscorekeeping.netlify.app/]
 
 P.S. Built with love ❤️ and a whole lotta JavaScript code .
